@@ -2,22 +2,6 @@
 
 Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta ante situaciones de emergencia.
 
-### Imagenes del proyecto
-<p>
-  <img src="./images/1.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/2.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/3.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/4.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/10.jpg" alt="Imagen del proyecto" height="300"/>
-</p>
-<p>
-  <img src="./images/5.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/6.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/7.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/8.jpg" alt="Imagen del proyecto" height="300"/>
-  <img src="./images/9.jpg" alt="Imagen del proyecto" height="300"/>
-</p>
-
 ### Funcionalidades principales
 - Boton anti-panico para el envío instantáneo de notificaciones de urgencia a contactos de confianza.
 - Geolocalización en tiempo real para una respuesta de ayuda inmediata y efectiva.
@@ -34,6 +18,22 @@ Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta a
 - Gestión de proyectos / Agile: Scrum con JIRA
 - Testing QA: diseño de casos de prueba y ejecución de pruebas (unitarias, integración, humo y regresión).
 - CI/CD: pipelines en GitHub Actions
+
+### Imagenes del proyecto
+<p>
+  <img src="./images/1.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/2.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/3.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/4.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/10.jpg" alt="Imagen del proyecto" height="300"/>
+</p>
+<p>
+  <img src="./images/5.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/6.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/7.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/8.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/9.jpg" alt="Imagen del proyecto" height="300"/>
+</p>
 
 ### ¿Cómo descargar y ejecutar el proyecto?
 
