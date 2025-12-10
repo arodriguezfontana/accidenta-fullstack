@@ -4,19 +4,18 @@ Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta a
 
 ### Imagenes del proyecto
 <p>
-  <img src="./images/1.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/2.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/3.png" alt="Imagen del proyecto" width="250"/>
+  <img src="./images/1.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/2.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/3.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/4.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/10.jpg" alt="Imagen del proyecto" height="300"/>
 </p>
 <p>
-  <img src="./images/4.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/5.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/6.png" alt="Imagen del proyecto" width="250"/>
-</p>
-<p>
-  <img src="./images/7.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/8.png" alt="Imagen del proyecto" width="250"/>
-  <img src="./images/9.png" alt="Imagen del proyecto" width="250"/>
+  <img src="./images/5.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/6.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/7.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/8.jpg" alt="Imagen del proyecto" height="300"/>
+  <img src="./images/9.jpg" alt="Imagen del proyecto" height="300"/>
 </p>
 
 ### Funcionalidades principales
