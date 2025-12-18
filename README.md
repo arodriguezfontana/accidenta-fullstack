@@ -1,4 +1,4 @@
-# Accidenta - App Móvil de Reporte Y Alerta de Emergencias
+# App Móvil de Reporte Y Alerta de Emergencias
 
 Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta ante situaciones de emergencia.
 
