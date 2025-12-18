@@ -2,22 +2,16 @@
 
 Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta ante situaciones de emergencia.
 
-### Funcionalidades principales
-- Boton anti-panico para el envío instantáneo de notificaciones de urgencia a contactos de confianza.
-- Geolocalización en tiempo real para una respuesta de ayuda inmediata y efectiva.
-- Creación y visualización de reportes de emergencia con soporte de imágenes.
-- Acceso a ficha médica con información vital al alcance de los servicios de emergencia.
-- Visualización de estadisticas y tendencias de accidentes por zona, tipo y fecha.
-
 ### Tecnologías utilizadas
 - Backend: Node.js, Express.js, TypeScript, PostgreSQL
 - Frontend: React Native, Expo, Typescript
 - Testing: Jest, Supertest, React Native Testing Library
 
-### Habilidades principales
-- Gestión de proyectos / Agile: Scrum con JIRA
-- Testing QA: diseño de casos de prueba y ejecución de pruebas (unitarias, integración, humo y regresión).
-- CI/CD: pipelines en GitHub Actions
+### Habilidades 
+- Technical Leadership: Liderazgo técnico, toma de decisiones y definición de estándares de calidad.
+- Agile: Gestión con Scrum y JIRA.
+- QA & Testing: TDD, BDD y ejecución de pruebas (unitarias, integración, humo y regresión).
+- CI/CD: Automatización de pipelines con GitHub Actions.
 
 ### Imagenes del proyecto
 <p>
@@ -34,6 +28,13 @@ Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta a
   <img src="./images/8.jpg" alt="Imagen del proyecto" height="300"/>
   <img src="./images/9.jpg" alt="Imagen del proyecto" height="300"/>
 </p>
+
+### Funcionalidades principales
+- Boton anti-panico para el envío instantáneo de notificaciones de urgencia a contactos de confianza.
+- Geolocalización en tiempo real para una respuesta de ayuda inmediata y efectiva.
+- Creación y visualización de reportes de emergencia con soporte de imágenes.
+- Acceso a ficha médica con información vital al alcance de los servicios de emergencia.
+- Visualización de estadisticas y tendencias de accidentes por zona, tipo y fecha.
 
 ### ¿Cómo descargar y ejecutar el proyecto?
 
