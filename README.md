@@ -8,9 +8,9 @@ Aplicación móvil enfocada en reducir drásticamente los tiempos de respuesta a
 - Testing: Jest, Supertest, React Native Testing Library
 
 ### Habilidades 
-- Technical Leadership: Liderazgo técnico, toma de decisiones y definición de estándares de calidad.
-- Agile: Gestión con Scrum y JIRA.
-- QA & Testing: TDD, BDD y ejecución de pruebas (unitarias, integración, humo y regresión).
+- Technical Leadership: Toma de decisiones estratégicas y definición de estándares de calidad.
+- Agile: Gestión de proyecto con Scrum y JIRA.
+- QA & Testing: TDD, BDD y ciclos de prueba integrales (Unitarias, Integración, Humo y Regresión).
 - CI/CD: Automatización de pipelines con GitHub Actions.
 
 ### Imagenes del proyecto
